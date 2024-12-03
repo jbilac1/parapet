@@ -1,0 +1,1620 @@
+[
+  {
+    "id": "warmbev",
+    "category": {
+      "en": "Warm Beverages",
+      "hr": "Topli Napitci"
+    },
+    "img": "hotbev.webp",
+    "drinks": [
+      {
+        "name": {
+          "hr": "Espresso",
+          "en": "Espresso"
+        },
+        "size": "30ml",
+        "price": 1.7
+      },
+      {
+        "name": {
+          "hr": "Macchiato",
+          "en": "Small Coffee With Milk"
+        },
+        "size": "60ml",
+        "price": 1.8
+      },
+      {
+        "name": {
+          "hr": "Macchiato Veliki",
+          "en": "Large Coffee With Milk"
+        },
+        "size": "90ml",
+        "price": 1.9
+      },
+      {
+        "name": {
+          "hr": "Cappuccino",
+          "en": "Cappuccino"
+        },
+        "size": "180ml",
+        "price": 2.1
+      },
+      {
+        "name": {
+          "hr": "Bijela Kava",
+          "en": "White Coffee"
+        },
+        "size": "180ml",
+        "price": 2.2
+      },
+      {
+        "name": {
+          "hr": "Kava Sa Šlagom",
+          "en": "Coffee With Cream"
+        },
+        "size": "180ml",
+        "price": 2.2
+      },
+      {
+        "name": {
+          "hr": "Grano Ness",
+          "en": "Grano Ness"
+        },
+        "size": "180ml",
+        "price": 2.3
+      },
+      {
+        "name": {
+          "hr": "Topla Čokolada",
+          "en": "Hot Chocolate"
+        },
+        "size": "180ml",
+        "price": 2.8
+      },
+      {
+        "name": {
+          "hr": "Kakao",
+          "en": "Cocoa"
+        },
+        "size": "250ml",
+        "price": 2.2
+      },
+      {
+        "name": {
+          "hr": "Rum Punch",
+          "en": "Rum Punch"
+        },
+        "size": "250ml",
+        "price": 2.4
+      },
+      {
+        "name": {
+          "hr": "Espresso Bez Kofeina",
+          "en": "Decaf Espresso"
+        },
+        "size": "30ml",
+        "price": 1.8
+      },
+      {
+        "name": {
+          "hr": "Macchiato Bez Kofeina",
+          "en": "Small Coffee With Milk Decaf"
+        },
+        "size": "60ml",
+        "price": 1.9
+      },
+      {
+        "name": {
+          "hr": "Macchiato Veliki Bez Kofeina",
+          "en": "Large Coffee With Milk Decaf"
+        },
+        "size": "90ml",
+        "price": 2.1
+      },
+      {
+        "name": {
+          "hr": "Cappuccino Bez Kofeina",
+          "en": "Decaf Cappuccino"
+        },
+        "size": "180ml",
+        "price": 2.2
+      },
+      {
+        "name": {
+          "hr": "Čaj",
+          "en": "Tea"
+        },
+        "size": "180ml",
+        "price": 2.1
+      }
+    ]
+  },
+  {
+    "id": "softdrinks",
+    "category": {
+      "en": "Soft Drinks",
+      "hr": "Bezalkoholna Pića"
+    },
+    "img": "softdrinks.webp",
+    "drinks": [
+      {
+        "name": {
+          "hr": "Coca Cola",
+          "en": "Coca Cola"
+        },
+        "size": "250ml",
+        "price": 2.9
+      },
+      {
+        "name": {
+          "hr": "Coca Cola Zero",
+          "en": "Coca Cola Zero"
+        },
+        "size": "250ml",
+        "price": 2.9
+      },
+      {
+        "name": {
+          "hr": "Fanta",
+          "en": "Fanta"
+        },
+        "size": "250ml",
+        "price": 2.9
+      },
+      {
+        "name": {
+          "hr": "Sprite",
+          "en": "Sprite"
+        },
+        "size": "250ml",
+        "price": 2.9
+      },
+      {
+        "name": {
+          "hr": "Mirinda",
+          "en": "Mirinda"
+        },
+        "size": "250ml",
+        "price": 2.9
+      },
+      {
+        "name": {
+          "hr": "Thomas Henry Tonic",
+          "en": "Thomas Henry Tonic"
+        },
+        "size": "250ml",
+        "price": 3.9
+      },
+      {
+        "name": {
+          "hr": "Inka Tonic",
+          "en": "Inka Tonic"
+        },
+        "size": "250ml",
+        "price": 2.9
+      },
+      {
+        "name": {
+          "hr": "Inka Bitter Lemon",
+          "en": "Inka Bitter Lemon"
+        },
+        "size": "250ml",
+        "price": 2.9
+      },
+      {
+        "name": {
+          "hr": "Juicy Sok",
+          "en": "Juicy Juice"
+        },
+        "size": "195ml",
+        "price": 2.9
+      },
+      {
+        "name": {
+          "hr": "Maraska Amarena Nektar",
+          "en": "Maraska Amarena Nectar"
+        },
+        "size": "195ml",
+        "price": 2.9
+      },
+      {
+        "name": {
+          "hr": "Studena Ledeni Čaj",
+          "en": "Studena Ice Tea"
+        },
+        "size": "250ml",
+        "price": 2.9
+      },
+      {
+        "name": {
+          "hr": "Juicy Vita",
+          "en": "Juicy Vita"
+        },
+        "size": "250ml",
+        "price": 2.2
+      },
+      {
+        "name": {
+          "hr": "Mikks Basil Lime",
+          "en": "Mikks Basil Lime"
+        },
+        "size": "250ml",
+        "price": 3.7
+      },
+      {
+        "name": {
+          "hr": "Mikks Passion Lemon",
+          "en": "Mikks Passion Lemon"
+        },
+        "size": "250ml",
+        "price": 3.7
+      },
+      {
+        "name": {
+          "hr": "Mikks Ginger Mint",
+          "en": "Mikks Ginger Mint"
+        },
+        "size": "250ml",
+        "price": 3.7
+      },
+      {
+        "name": {
+          "hr": "Mikks Yuzu Elder",
+          "en": "Mikks Yuzu Elder"
+        },
+        "size": "250ml",
+        "price": 3.7
+      },
+      {
+        "name": {
+          "hr": "Red Bull",
+          "en": "Red Bull"
+        },
+        "size": "250ml",
+        "price": 3.9
+      },
+      {
+        "name": {
+          "hr": "Romerquelle",
+          "en": "Romerquelle"
+        },
+        "size": "330ml",
+        "price": 2.7
+      },
+      {
+        "name": {
+          "hr": "Pepsi",
+          "en": "Pepsi"
+        },
+        "size": "250ml",
+        "price": 2.9
+      },
+      {
+        "name": {
+          "hr": "Cockta",
+          "en": "Cockta"
+        },
+        "size": "250ml",
+        "price": 2.9
+      },
+      {
+        "name": {
+          "hr": "Doljev piću",
+          "en": "Mixer Top Up"
+        },
+        "size": "250ml",
+        "price": 1.2
+      },
+      {
+        "name": {
+          "hr": "Limunada",
+          "en": "Lemonade"
+        },
+        "size": "330ml",
+        "price": 3.2
+      },
+      {
+        "name": {
+          "hr": "Limun/Naranča",
+          "en": "Lemon/Orange"
+        },
+        "size": "330ml",
+        "price": 3.2
+      },
+      {
+        "name": {
+          "hr": "Orangina",
+          "en": "Orangina"
+        },
+        "size": "250ml",
+        "price": 2.9
+      }
+    ]
+  },
+  {
+    "id": "prirodni",
+    "category": {
+      "en": "Natural Juices",
+      "hr": "Prirodni Sokovi"
+    },
+    "img": "prirodni.webp",
+    "drinks": [
+      {
+        "name": {
+          "hr": "Svježe cijeđeni sok",
+          "en": "Freshly Squeezed Juice"
+        },
+        "size": "100ml",
+        "price": 2.3
+      }
+    ]
+  },
+  {
+    "id": "water",
+    "category": {
+      "en": "Water",
+      "hr": "Voda"
+    },
+    "img": "water.webp",
+    "drinks": [
+      {
+        "name": {
+          "hr": "Studena",
+          "en": "Studena"
+        },
+        "size": "1L",
+        "price": 3.9
+      },
+      {
+        "name": {
+          "hr": "Studena",
+          "en": "Studena"
+        },
+        "size": "0,25L",
+        "price": 2.1
+      },
+      {
+        "name": {
+          "hr": "Radenska 3 Srca",
+          "en": "Radenska 3 Srca"
+        },
+        "size": "1L",
+        "price": 3.9
+      },
+      {
+        "name": {
+          "hr": "Radenska 3 Srca",
+          "en": "Radenska 3 Srca"
+        },
+        "size": "0,25L",
+        "price": 2.1
+      },
+      {
+        "name": {
+          "hr": "Jamnica",
+          "en": "Jamnica"
+        },
+        "size": "1L",
+        "price": 3.9
+      }
+    ]
+  },
+  {
+    "id": "beer",
+    "category": {
+      "en": "Beer",
+      "hr": "Pivo"
+    },
+    "img": "beer.webp",
+    "drinks": [
+      {
+        "name": {
+          "hr": "Carlsberg Točeno",
+          "en": "Carlsberg Draught"
+        },
+        "size": "0.3L",
+        "price": 3.2
+      },
+      {
+        "name": {
+          "hr": "Carlsberg Točeno",
+          "en": "Carlsberg Draught"
+        },
+        "size": "0.5L",
+        "price": 4
+      },
+      {
+        "name": {
+          "hr": "Zlatni Pan Točeno",
+          "en": "Zlatni Pan Draught"
+        },
+        "size": "0.3L",
+        "price": 3
+      },
+      {
+        "name": {
+          "hr": "Zlatni Pan Točeno",
+          "en": "Zlatni Pan Draught"
+        },
+        "size": "0.5L",
+        "price": 3.5
+      },
+      {
+        "name": {
+          "hr": "1664 Blanc Točeno",
+          "en": "1664 Blanc Draught"
+        },
+        "size": "0.3L",
+        "price": 3.2
+      },
+      {
+        "name": {
+          "hr": "1664 Blanc Točeno",
+          "en": "1664 Blanc Draught"
+        },
+        "size": "0.5L",
+        "price": 4
+      },
+      {
+        "name": {
+          "hr": "Brooklyn Točeno",
+          "en": "Brooklyn Draught"
+        },
+        "size": "0.25L",
+        "price": 4
+      },
+      {
+        "name": {
+          "hr": "Brooklyn Točeno",
+          "en": "Brooklyn Draught"
+        },
+        "size": "0.5L",
+        "price": 6
+      },
+      {
+        "name": {
+          "hr": "Carlsberg",
+          "en": "Carlsberg"
+        },
+        "size": "0.3L",
+        "price": 2.8
+      },
+      {
+        "name": {
+          "hr": "Zlatni Pan",
+          "en": "Zlatni Pan"
+        },
+        "size": "0.5L",
+        "price": 3
+      },
+      {
+        "name": {
+          "hr": "Pan Lager",
+          "en": "Pan Lager"
+        },
+        "size": "0.5L",
+        "price": 3
+      },
+      {
+        "name": {
+          "hr": "1664 Blanc",
+          "en": "1664 Blanc"
+        },
+        "size": "0.3L",
+        "price": 3
+      },
+      {
+        "name": {
+          "hr": "Heineken",
+          "en": "Heineken"
+        },
+        "size": "0.3L",
+        "price": 3.2
+      },
+      {
+        "name": {
+          "hr": "Pan Bezalkoholni",
+          "en": "Pan Alcohol-Free"
+        },
+        "size": "0.5L",
+        "price": 3.5
+      },
+      {
+        "name": {
+          "hr": "Pan Radler Limun/Breskva/Đumbir",
+          "en": "Pan Radler Lemon/Peach/Ginger"
+        },
+        "size": "0.5L",
+        "price": 3
+      },
+      {
+        "name": {
+          "hr": "Tuborg",
+          "en": "Tuborg"
+        },
+        "size": "0.3L",
+        "price": 2.5
+      },
+      {
+        "name": {
+          "hr": "Budweiser Dark",
+          "en": "Budweiser Dark"
+        },
+        "size": "0.5L",
+        "price": 5.5
+      },
+      {
+        "name": {
+          "hr": "Budweiser",
+          "en": "Budweiser"
+        },
+        "size": "0.3L",
+        "price": 4
+      },
+      {
+        "name": {
+          "hr": "Grimbergen Blonde",
+          "en": "Grimbergen Blonde"
+        },
+        "size": "0.3L",
+        "price": 4
+      },
+      {
+        "name": {
+          "hr": "Paulaner",
+          "en": "Paulaner"
+        },
+        "size": "0.5L",
+        "price": 4.4
+      },
+      {
+        "name": {
+          "hr": "Somersby",
+          "en": "Somersby"
+        },
+        "size": "0.3L",
+        "price": 3.5
+      },
+      {
+        "name": {
+          "hr": "Element",
+          "en": "Element"
+        },
+        "size": "0.5L",
+        "price": 4.5
+      },
+      {
+        "name": {
+          "hr": "Krombacher",
+          "en": "Krombacher"
+        },
+        "size": "0.3L",
+        "price": 2.8
+      }
+    ]
+  },
+  {
+    "id": "whitewines",
+    "category": {
+      "en": "White Wines",
+      "hr": "Bijela Vina"
+    },
+    "img": "wine.webp",
+    "drinks": [
+      {
+        "name": {
+          "hr": "Graševina Pavić",
+          "en": "Graševina Pavić"
+        },
+        "size": "1L",
+        "price": 16
+      },
+      {
+        "name": {
+          "hr": "Graševina Pavić",
+          "en": "Graševina Pavić"
+        },
+        "size": "0,1L",
+        "price": 2
+      },
+      {
+        "name": {
+          "hr": "Figurica Maraština",
+          "en": "Figurica Maraština"
+        },
+        "size": "0,75L",
+        "price": 29
+      },
+      {
+        "name": {
+          "hr": "Figurica Maraština",
+          "en": "Figurica Maraština"
+        },
+        "size": "0,1L",
+        "price": 3.5
+      },
+      {
+        "name": {
+          "hr": "Coronica Malvazija",
+          "en": "Coronica Malvazija"
+        },
+        "size": "0,75L",
+        "price": 29
+      },
+      {
+        "name": {
+          "hr": "Coronica Malvazija",
+          "en": "Coronica Malvazija"
+        },
+        "size": "0,1L",
+        "price": 4
+      },
+      {
+        "name": {
+          "hr": "Vrbnička Žlahtina",
+          "en": "Vrbnička Žlahtina"
+        },
+        "size": "1L",
+        "price": 18
+      },
+      {
+        "name": {
+          "hr": "Vrbnička Žlahtina",
+          "en": "Vrbnička Žlahtina"
+        },
+        "size": "0,1L",
+        "price": 2.2
+      },
+      {
+        "name": {
+          "hr": "Gospoja",
+          "en": "Gospoja"
+        },
+        "size": "0,75L",
+        "price": 25
+      },
+      {
+        "name": {
+          "hr": "Gospoja",
+          "en": "Gospoja"
+        },
+        "size": "0,1L",
+        "price": 3.5
+      },
+      {
+        "name": {
+          "hr": "Degarra Pošip",
+          "en": "Degarra Pošip"
+        },
+        "size": "0,75L",
+        "price": 29
+      },
+      {
+        "name": {
+          "hr": "Degarra Pošip",
+          "en": "Degarra Pošip"
+        },
+        "size": "0,1L",
+        "price": 3.7
+      },
+      {
+        "name": {
+          "hr": "Fiolić Maraština",
+          "en": "Fiolić Maraština"
+        },
+        "size": "0,75L",
+        "price": 29
+      },
+      {
+        "name": {
+          "hr": "Fiolić Maraština",
+          "en": "Fiolić Maraština"
+        },
+        "size": "0,1L",
+        "price": 3.7
+      },
+      {
+        "name": {
+          "hr": "Gemišt",
+          "en": "Gemišt"
+        },
+        "size": "0,2L",
+        "price": 2.5
+      },
+      {
+        "name": {
+          "hr": "Gemišt",
+          "en": "Gemišt"
+        },
+        "size": "0,3L",
+        "price": 3
+      }
+    ]
+  },
+  {
+    "id": "redrose",
+    "category": {
+      "en": "Rose and Red Wines",
+      "hr": "Rose i Crna Vina"
+    },
+    "img": "wine.webp",
+    "drinks": [
+      {
+        "name": {
+          "hr": "Figurica Rose",
+          "en": "Figurica Rose"
+        },
+        "size": "0,1L",
+        "price": 27
+      },
+      {
+        "name": {
+          "hr": "Figurica Rose",
+          "en": "Figurica Rose"
+        },
+        "size": "0,1L",
+        "price": 3.8
+      },
+      {
+        "name": {
+          "hr": "Degarra Rose",
+          "en": "Degarra Rose"
+        },
+        "size": "0,75L",
+        "price": 30
+      },
+      {
+        "name": {
+          "hr": "Rose Benkovac",
+          "en": "Rose Benkovac"
+        },
+        "size": "0,75L",
+        "price": 20
+      },
+      {
+        "name": {
+          "hr": "Figurica Cuvee",
+          "en": "Figurica Cuvee"
+        },
+        "size": "0,75L",
+        "price": 27
+      },
+      {
+        "name": {
+          "hr": "Figurica Crljenak",
+          "en": "Figurica Crljenak"
+        },
+        "size": "0,75L",
+        "price": 27
+      },
+      {
+        "name": {
+          "hr": "Figurica Svrdlovina",
+          "en": "Figurica Svrdlovina"
+        },
+        "size": "0,75L",
+        "price": 29
+      },
+      {
+        "name": {
+          "hr": "Korlat Merlot",
+          "en": "Korlat Merlot"
+        },
+        "size": "0,75L",
+        "price": 29
+      },
+      {
+        "name": {
+          "hr": "Korlat Merlot",
+          "en": "Korlat Merlot"
+        },
+        "size": "0,1L",
+        "price": 4.2
+      },
+      {
+        "name": {
+          "hr": "Korlat Syrah",
+          "en": "Korlat Syrah"
+        },
+        "size": "0,75L",
+        "price": 29
+      },
+      {
+        "name": {
+          "hr": "Korlat Syrah",
+          "en": "Korlat Syrah"
+        },
+        "size": "0,1L",
+        "price": 4.2
+      },
+      {
+        "name": {
+          "hr": "Putniković Pelješac",
+          "en": "Putniković Pelješac"
+        },
+        "size": "0,75L",
+        "price": 16
+      },
+      {
+        "name": {
+          "hr": "Putniković Pelješac",
+          "en": "Putniković Pelješac"
+        },
+        "size": "0,1L",
+        "price": 2
+      },
+      {
+        "name": {
+          "hr": "Pavić Merlot",
+          "en": "Pavić Merlot"
+        },
+        "size": "0,75L",
+        "price": 16
+      },
+      {
+        "name": {
+          "hr": "Pavić Merlot",
+          "en": "Pavić Merlot"
+        },
+        "size": "0,1L",
+        "price": 2
+      }
+    ]
+  },
+  {
+    "id": "pjenusava",
+    "category": {
+      "en": "Sparkling Wines",
+      "hr": "Pjenušava Vina"
+    },
+    "img": "wine.webp",
+    "drinks": [
+      {
+        "name": {
+          "hr": "Luc Belaire Luxe",
+          "en": "Luc Belaire Luxe"
+        },
+        "size": "0,75L",
+        "price": 110
+      },
+      {
+        "name": {
+          "hr": "Luc Belaire Rose",
+          "en": "Luc Belaire Rose"
+        },
+        "size": "0,75L",
+        "price": 110
+      }
+    ]
+  },
+  {
+    "id": "domaca",
+    "category": {
+      "en": "Domestic Alcohol",
+      "hr": "Domaća Žestoka"
+    },
+    "img": "wine.webp",
+    "drinks": [
+      {
+        "name": {
+          "hr": "Maraska Pelinkovac",
+          "en": "Maraska Pelinkovac"
+        },
+        "size": "0,03L",
+        "price": 2.5
+      },
+      {
+        "name": {
+          "hr": "Antique Pelinkovac",
+          "en": "Antique Pelinkovac"
+        },
+        "size": "0,03L",
+        "price": 2.6
+      },
+      {
+        "name": {
+          "hr": "Medica",
+          "en": "Medica"
+        },
+        "size": "0,03L",
+        "price": 2.2
+      },
+      {
+        "name": {
+          "hr": "Šljivovica",
+          "en": "Šljivovica"
+        },
+        "size": "0,03L",
+        "price": 2.3
+      },
+      {
+        "name": {
+          "hr": "Travarica",
+          "en": "Travarica"
+        },
+        "size": "0,03L",
+        "price": 2.3
+      },
+      {
+        "name": {
+          "hr": "Borovnica",
+          "en": "Borovnica"
+        },
+        "size": "0,03L",
+        "price": 2.3
+      },
+      {
+        "name": {
+          "hr": "Višnjevac",
+          "en": "Višnjevac"
+        },
+        "size": "0,03L",
+        "price": 2.3
+      },
+      {
+        "name": {
+          "hr": "Teranino",
+          "en": "Teranino"
+        },
+        "size": "0,03L",
+        "price": 3
+      },
+      {
+        "name": {
+          "hr": "Orahovac",
+          "en": "Orahovac"
+        },
+        "size": "0,03L",
+        "price": 2.3
+      },
+      {
+        "name": {
+          "hr": "Vilijamovka",
+          "en": "Vilijamovka"
+        },
+        "size": "0,03L",
+        "price": 2.3
+      },
+      {
+        "name": {
+          "hr": "Pelin Tonic",
+          "en": "Pelin Tonic"
+        },
+        "size": "330ml",
+        "price": 3.5
+      }
+    ]
+  },
+  {
+    "id": "premium",
+    "category": {
+      "en": "Premium Alcohol",
+      "hr": "Rakija Premium"
+    },
+    "img": "premium.webp",
+    "drinks": [
+      {
+        "name": {
+          "hr": "Madre Badessa Amarena",
+          "en": "Madre Badessa Amarena"
+        },
+        "size": "0,7L",
+        "price": 65
+      },
+      {
+        "name": {
+          "hr": "Madre Badessa Amarena",
+          "en": "Madre Badessa Amarena"
+        },
+        "size": "0,03L",
+        "price": 2.1
+      },
+      {
+        "name": {
+          "hr": "Madre Badessa Borovnica",
+          "en": "Madre Badessa Borovnica"
+        },
+        "size": "0,7L",
+        "price": 65
+      },
+      {
+        "name": {
+          "hr": "Madre Badessa Borovnica",
+          "en": "Madre Badessa Borovnica"
+        },
+        "size": "0,03L",
+        "price": 2.1
+      },
+      {
+        "name": {
+          "hr": "Madre Badessa Orahovac",
+          "en": "Madre Badessa Orahovac"
+        },
+        "size": "0,7L",
+        "price": 65
+      },
+      {
+        "name": {
+          "hr": "Madre Badessa Orahovac",
+          "en": "Madre Badessa Orahovac"
+        },
+        "size": "0,03L",
+        "price": 2.1
+      }
+    ]
+  },
+  {
+    "id": "wiskey",
+    "category": {
+      "en": "Whiskey",
+      "hr": "Whiskey"
+    },
+    "img": "whiskey.webp",
+    "drinks": [
+      {
+        "name": {
+          "hr": "Jameson",
+          "en": "Jameson"
+        },
+        "size": "0,03L",
+        "price": 3.5
+      },
+      {
+        "name": {
+          "hr": "Jameson Black Barrel",
+          "en": "Jameson Black Barrel"
+        },
+        "size": "0,03L",
+        "price": 4.8
+      },
+      {
+        "name": {
+          "hr": "Jameson Caskmates IPA",
+          "en": "Jameson Caskmates IPA"
+        },
+        "size": "0,03L",
+        "price": 3.8
+      },
+      {
+        "name": {
+          "hr": "Jameson Caskmates Stout",
+          "en": "Jameson Caskmates Stout"
+        },
+        "size": "0,03L",
+        "price": 3.8
+      },
+      {
+        "name": {
+          "hr": "Jameson Crested",
+          "en": "Jameson Crested"
+        },
+        "size": "0,03L",
+        "price": 3.8
+      },
+      {
+        "name": {
+          "hr": "Jameson 18 YO",
+          "en": "Jameson 18 YO"
+        },
+        "size": "0,03L",
+        "price": 4.5
+      },
+      {
+        "name": {
+          "hr": "Ballantines",
+          "en": "Ballantines"
+        },
+        "size": "0,03L",
+        "price": 3
+      },
+      {
+        "name": {
+          "hr": "Ballantines 10 YO",
+          "en": "Ballantines 10 YO"
+        },
+        "size": "0,03L",
+        "price": 4.6
+      },
+      {
+        "name": {
+          "hr": "Ballantines 17 YO",
+          "en": "Ballantines 17 YO"
+        },
+        "size": "0,03L",
+        "price": 6.3
+      },
+      {
+        "name": {
+          "hr": "Ballantines 21 YO",
+          "en": "Ballantines 21 YO"
+        },
+        "size": "0,03L",
+        "price": 6.8
+      },
+      {
+        "name": {
+          "hr": "Chivas Regal 12 YO",
+          "en": "Chivas Regal 12 YO"
+        },
+        "size": "0,03L",
+        "price": 4
+      },
+      {
+        "name": {
+          "hr": "Chivas Regal 18 YO",
+          "en": "Chivas Regal 18 YO"
+        },
+        "size": "0,03L",
+        "price": 6.5
+      },
+      {
+        "name": {
+          "hr": "Chivas Regal 25 YO",
+          "en": "Chivas Regal 25 YO"
+        },
+        "size": "0,03L",
+        "price": 23
+      },
+      {
+        "name": {
+          "hr": "Royal Salute 21 YO",
+          "en": "Royal Salute 21 YO"
+        },
+        "size": "0,03L",
+        "price": 15
+      },
+      {
+        "name": {
+          "hr": "The Glenlivet Founders Reserve",
+          "en": "The Glenlivet Founders Reserve"
+        },
+        "size": "0,03L",
+        "price": 4.4
+      },
+      {
+        "name": {
+          "hr": "The Glenlivet 12 YO",
+          "en": "The Glenlivet 12 YO"
+        },
+        "size": "0,03L",
+        "price": 4.7
+      },
+      {
+        "name": {
+          "hr": "The Glenlivet 15 YO",
+          "en": "The Glenlivet 15 YO"
+        },
+        "size": "0,03L",
+        "price": 6
+      },
+      {
+        "name": {
+          "hr": "Aberlour 12 YO",
+          "en": "Aberlour 12 YO"
+        },
+        "size": "0,03L",
+        "price": 4
+      },
+      {
+        "name": {
+          "hr": "Red Brest 12 YO",
+          "en": "Red Brest 12 YO"
+        },
+        "size": "0,03L",
+        "price": 6
+      },
+      {
+        "name": {
+          "hr": "Green Spot",
+          "en": "Green Spot"
+        },
+        "size": "0,03L",
+        "price": 6
+      },
+      {
+        "name": {
+          "hr": "Four Roses",
+          "en": "Four Roses"
+        },
+        "size": "0,03L",
+        "price": 3
+      },
+      {
+        "name": {
+          "hr": "Four Roses Single Barrel",
+          "en": "Four Roses Single Barrel"
+        },
+        "size": "0,03L",
+        "price": 5
+      },
+      {
+        "name": {
+          "hr": "Whiskey Cola",
+          "en": "Whiskey Cola"
+        },
+        "size": "0,03L",
+        "price": 4.5
+      },
+      {
+        "name": {
+          "hr": "Jack Daniels",
+          "en": "Jack Daniels"
+        },
+        "size": "0,03L",
+        "price": 3
+      },
+      {
+        "name": {
+          "hr": "Stock",
+          "en": "Stock"
+        },
+        "size": "0,03L",
+        "price": 3
+      }
+    ]
+  },
+  {
+    "id": "cognac",
+    "category": {
+      "en": "Cognac",
+      "hr": "Konjak"
+    },
+    "img": "premium.webp",
+    "drinks": [
+      {
+        "name": {
+          "hr": "Martell VS",
+          "en": "Martell VS"
+        },
+        "size": "0,03L",
+        "price": 4.2
+      },
+      {
+        "name": {
+          "hr": "Martell VSOP",
+          "en": "Martell VSOP"
+        },
+        "size": "0,03L",
+        "price": 5
+      },
+      {
+        "name": {
+          "hr": "Martell XO",
+          "en": "Martell XO"
+        },
+        "size": "0,03L",
+        "price": 6.2
+      }
+    ]
+  },
+  {
+    "id": "gin",
+    "category": {
+      "en": "Gin",
+      "hr": "Gin"
+    },
+    "img": "gin.webp",
+    "drinks": [
+      {
+        "name": {
+          "hr": "Malfy Originale",
+          "en": "Malfy Originale"
+        },
+        "size": "0,03L",
+        "price": 3.7
+      },
+      {
+        "name": {
+          "hr": "Malfy Rosa",
+          "en": "Malfy Rosa"
+        },
+        "size": "0,03L",
+        "price": 3.7
+      },
+      {
+        "name": {
+          "hr": "Malfy Arancia",
+          "en": "Malfy Arancia"
+        },
+        "size": "0,03L",
+        "price": 3.7
+      },
+      {
+        "name": {
+          "hr": "Beefeater",
+          "en": "Beefeater"
+        },
+        "size": "0,03L",
+        "price": 3
+      },
+      {
+        "name": {
+          "hr": "Beefeater Pink",
+          "en": "Beefeater Pink"
+        },
+        "size": "0,03L",
+        "price": 3
+      },
+      {
+        "name": {
+          "hr": "Monkey 47",
+          "en": "Monkey 47"
+        },
+        "size": "0,03L",
+        "price": 4.4
+      },
+      {
+        "name": {
+          "hr": "Gin Tonic",
+          "en": "Gin Tonic"
+        },
+        "size": "330ml",
+        "price": 4.2
+      }
+    ]
+  },
+  {
+    "id": "vodka",
+    "category": {
+      "en": "Vodka",
+      "hr": "Vodka"
+    },
+    "img": "vodka.webp",
+    "drinks": [
+      {
+        "name": {
+          "hr": "Absolute Blue",
+          "en": "Absolute Blue"
+        },
+        "size": "0,03L",
+        "price": 3
+      },
+      {
+        "name": {
+          "hr": "Wyborova",
+          "en": "Wyborova"
+        },
+        "size": "0,03L",
+        "price": 2.6
+      },
+      {
+        "name": {
+          "hr": "Grey Goose",
+          "en": "Grey Goose"
+        },
+        "size": "0,03L",
+        "price": 5.5
+      },
+      {
+        "name": {
+          "hr": "Vodka Juice",
+          "en": "Vodka Juice"
+        },
+        "size": "330ml",
+        "price": 4
+      }
+    ]
+  },
+  {
+    "id": "rum",
+    "category": {
+      "en": "Rum",
+      "hr": "Rum"
+    },
+    "img": "rum.webp",
+    "drinks": [
+      {
+        "name": {
+          "hr": "Havana Club 3 YO",
+          "en": "Havana Club 3 YO"
+        },
+        "size": "0,03L",
+        "price": 3
+      },
+      {
+        "name": {
+          "hr": "Havana Club 7 YO",
+          "en": "Havana Club 7 YO"
+        },
+        "size": "0,03L",
+        "price": 4
+      },
+      {
+        "name": {
+          "hr": "Havana Especial",
+          "en": "Havana Especial"
+        },
+        "size": "0,03L",
+        "price": 4.5
+      },
+      {
+        "name": {
+          "hr": "Bumbu Original",
+          "en": "Bumbu Original"
+        },
+        "size": "0,03L",
+        "price": 4.7
+      },
+      {
+        "name": {
+          "hr": "La Hechicera Extra Anejo Sol.",
+          "en": "La Hechicera Extra Anejo Sol."
+        },
+        "size": "0,03L",
+        "price": 4.7
+      }
+    ]
+  },
+  {
+    "id": "other-alcoholic",
+    "category": {
+      "en": "Other Alcoholic Drinks",
+      "hr": "Ostala Alkoholna Pića"
+    },
+    "img": "other-alcoholic.webp",
+    "drinks": [
+      {
+        "name": {
+          "hr": "Lillet Blanc",
+          "en": "Lillet Blanc"
+        },
+        "size": "0,03L",
+        "price": 3
+      },
+      {
+        "name": {
+          "hr": "Lillet Rose",
+          "en": "Lillet Rose"
+        },
+        "size": "0,03L",
+        "price": 3
+      },
+      {
+        "name": {
+          "hr": "Italicus",
+          "en": "Italicus"
+        },
+        "size": "0,03L",
+        "price": 5.5
+      },
+      {
+        "name": {
+          "hr": "Ramazotti Amaro",
+          "en": "Ramazotti Amaro"
+        },
+        "size": "0,03L",
+        "price": 2.7
+      },
+      {
+        "name": {
+          "hr": "Ramazotti Sambuca",
+          "en": "Ramazotti Sambuca"
+        },
+        "size": "0,03L",
+        "price": 3.3
+      },
+      {
+        "name": {
+          "hr": "Malibu",
+          "en": "Malibu"
+        },
+        "size": "0,03L",
+        "price": 3
+      },
+      {
+        "name": {
+          "hr": "Carolans",
+          "en": "Carolans"
+        },
+        "size": "0,03L",
+        "price": 2.6
+      },
+      {
+        "name": {
+          "hr": "Campari",
+          "en": "Campari"
+        },
+        "size": "0,03L",
+        "price": 2.8
+      },
+      {
+        "name": {
+          "hr": "Jagermeister",
+          "en": "Jagermeister"
+        },
+        "size": "0,03L",
+        "price": 2.5
+      }
+    ]
+  },
+  {
+    "id": "spritz-cocktails",
+    "category": {
+      "en": "Spritz Cocktails",
+      "hr": "Spritz Kokteli"
+    },
+    "img": "spritz-cocktails.webp",
+    "drinks": [
+      {
+        "name": {
+          "hr": "Lillet Spritz",
+          "en": "Lillet Spritz"
+        },
+        "size": "",
+        "price": 7.5
+      },
+      {
+        "name": {
+          "hr": "Italicus Spritz",
+          "en": "Italicus Spritz"
+        },
+        "size": "",
+        "price": 8.5
+      },
+      {
+        "name": {
+          "hr": "Hugo Spritz",
+          "en": "Hugo Spritz"
+        },
+        "size": "",
+        "price": 7.5
+      },
+      {
+        "name": {
+          "hr": "Aperol Spritz",
+          "en": "Aperol Spritz"
+        },
+        "size": "",
+        "price": 7.5
+      },
+      {
+        "name": {
+          "hr": "Maraschino Kiss",
+          "en": "Maraschino Kiss"
+        },
+        "size": "",
+        "price": 7.5
+      },
+      {
+        "name": {
+          "hr": "Prosecco",
+          "en": "Prosecco"
+        },
+        "size": "",
+        "price": 5
+      },
+      {
+        "name": {
+          "hr": "Mule Razni",
+          "en": "Mule Various"
+        },
+        "size": "",
+        "price": 9.5
+      },
+      {
+        "name": {
+          "hr": "Long Island",
+          "en": "Long Island"
+        },
+        "size": "",
+        "price": 10
+      },
+      {
+        "name": {
+          "hr": "Zadar Mule",
+          "en": "Zadar Mule"
+        },
+        "size": "",
+        "price": 8.5
+      },
+      {
+        "name": {
+          "hr": "Maraschino",
+          "en": "Maraschino"
+        },
+        "size": "0,03L",
+        "price": 2.8
+      }
+    ]
+  }
+]

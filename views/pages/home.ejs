@@ -1,0 +1,25 @@
+<% layout('/layouts/boilerplate') %>
+    <%- include('../partials/navbar.ejs') %>
+    <div class="category-container">
+        <%- include('../partials/language.ejs') %>
+        <h1><%= t.pricelist %></h1>
+        <% for( let cat of pricelist ) { %>
+            <div class="category">
+                <div class="cat-header" onclick="toggleDrinks('<%= cat.id %>')" >
+                    <h2 class="cheading"><%= cat.category[currentLang] %></h2>
+                </div>
+                <div id="<%= cat.id %>" class="cat-drinks">
+                    <% for( let drink of cat.drinks) { %>
+                        <div class="cat-drink">
+                            <div><%= drink.name[currentLang] %><br/> <span><%= drink.size %></span></div>
+                            <div><%= drink.price.toFixed(2) %> €</div>
+                        </div>
+                    <% } %>
+                </div>              
+            </div>
+        <% } %>
+        <%- include('../partials/footer.ejs') %>
+    </div>
+      
+    
+    
