@@ -20,7 +20,7 @@ const translations = {
 };
 
 app.use(cookieParser());
-app.engine('ejs', ejsMate);//za layout
+app.engine('ejs', ejsMate);
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
 
